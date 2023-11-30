@@ -63,6 +63,7 @@ class IntegrationTestApplicationTests {
 
 
 	}
+	//testing is an art
 
 
 	//integration test  for adding product process using MockMvc
